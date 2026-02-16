@@ -1,16 +1,43 @@
-## Hi there 👋
+# ⋆ Hi, I'm **Zara**!
 
-<!--
-**zarajarral/zarajarral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student specialising in **web developement**, working to expand  
+my skills in game developement, AI machine learning, and automation.
 
-Here are some ideas to get you started:
+I’m also the co-owner of a small start up called **CONNECT**, specialising in optimising  
+our clients brand in terms of branding, digital prescene, and of course, website optimisation.
+> Take a look at some of my work in the [Project Repository](https://github.com/zarajarral?tab=repositories)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## < / > **TECH STACK**  
+
+### **Languages**
+HTML / CSS • JavaScript • Python • C++ • Liquid  
+
+### **Frameworks & Libraries**
+React / React Vite  
+
+### **Platforms & Services**
+Firebase • Git & GitHub • Shopify • WordPress • Netlify  
+
+---
+##  ๋࣭ ⭑ **MORE ABOUT ME**  
+
+As a the job industry developes, I'm looking into expanding my understanding of automation and also pursue my desire of learning more in game dev. Here's what I've tackled so far :)
+
+### **AI / Automation**
+- Zapier Automations  
+- N8N Automations  
+- AI Machine learning (Python)
+
+### **Game Developement**
+- Pygame  
+- Blender  
+- Piskel  
+- Game maker studio 2
+
+---
+## .ᐣ **INTERESTED IN KNOWING MORE?**  
+Let's CONNECT!  
+
+Company Email: info@connectprax.com  
+Personal Email: zarajarral699@gmail.com
