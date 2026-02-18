@@ -3,7 +3,7 @@
 I’m a student specialising in **web developement**, working to expand  
 my skills in game developement, AI machine learning, and automation.
 
-I’m also the co-owner of a small start up called **CONNECT**, specialising in optimising  
+I’m also the co-owner of a small start up called **PRAX**, and it's sub brand **CONNECT**. My team specialises in optimising  
 our clients brand in terms of branding, digital prescene, and of course, website optimisation.
 > Take a look at some of my work in the [Project Repository](https://github.com/zarajarral?tab=repositories)!
 
