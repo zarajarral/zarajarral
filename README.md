@@ -22,7 +22,7 @@ Firebase • Git & GitHub • Shopify • WordPress • Netlify
 ---
 ##  ๋࣭ ⭑ **MORE ABOUT ME**  
 
-As a the job industry developes, I'm looking into expanding my understanding of automation and also pursue my desire of learning more in game dev. Here's what I've tackled so far :)
+As the job industry developes, I'm looking into expanding my understanding of automation and also pursue my desire of learning more in game dev. Here's what I've tackled so far :)
 
 ### **AI / Automation**
 - Zapier Automations  
