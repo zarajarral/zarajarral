@@ -3,8 +3,7 @@
 I’m a student specialising in **web developement**, working to expand  
 my skills in game developement, AI machine learning, and automation.
 
-I’m also the co-owner of a small start up called **PRAX**, and it's sub brand **CONNECT**. My team specialises in optimising  
-our clients brand in terms of branding, digital prescene, and of course, website optimisation.
+I’m also the co-owner of a small start up called **PRAX**, and it's sub brand **CONNECT**. My team specialises in automations that optimise our client's businesses, with additional services for personalised branding and web/software developement.
 > Take a look at some of my work in the [Project Repository](https://github.com/zarajarral?tab=repositories)!
 
 ---
@@ -37,7 +36,7 @@ As the job industry developes, I'm looking into expanding my understanding of au
 
 ---
 ## .ᐣ **INTERESTED IN KNOWING MORE?**  
-Let's CONNECT!  
+Let's **CONNECT**! Contact me personally or contact our company for more services in automation and branding.
 
 Company Email: info@connectprax.com  
 Personal Email: zarajarral699@gmail.com
