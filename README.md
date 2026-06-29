@@ -8,8 +8,11 @@ I’m also the co-owner of a small start up called **PRAX**, and it's sub brand 
 ---
 ## < / > **TECH STACK**  
 
-### **Languages**
-HTML / CSS • JavaScript • Python • C++ • Liquid  
+### **Imperative Languages**
+JavaScript • Python • C++ • Liquid  
+
+### **Declaritive Languages**
+HTML / CSS
 
 ### **Frameworks & Libraries**
 React / React Vite  
