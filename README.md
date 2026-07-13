@@ -32,7 +32,8 @@ As the job industry developes, I'm looking into expanding my understanding of au
 
 ### **Game Developement**
 - Pygame  
-- Blender  
+- Blender
+- Asperite
 - Piskel  
 - Game maker studio 2
 
