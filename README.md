@@ -3,7 +3,7 @@
 I’m a student specialising in **web developement**, working to expand  
 my skills in game developement, AI machine learning, and automation.
 
-I’m also the co-owner of a small start up called **PRAX**, and it's sub brand **CONNECT**. My team specialises in automations that optimise our client's businesses, with additional services for personalised branding and web/software developement.
+I’m also the Head of Operations of a brand called **PRAX**, and it's sub brand **CONNECT**. My team specialises in automations that optimise our client's businesses, with additional services for personalised branding and web/software developement.
 
 ---
 ## < / > **TECH STACK**  
